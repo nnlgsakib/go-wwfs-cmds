@@ -6,7 +6,7 @@ toolchain go1.24.7
 
 require (
 	github.com/ipfs/go-log/v2 v2.8.1
-	github.com/nnlgsakib/wwfs-sdk v1.0.0
+	github.com/nnlgsakib/wwfs-sdk v1.0.9
 	github.com/rs/cors v1.11.1
 	github.com/texttheater/golang-levenshtein v1.0.1
 	golang.org/x/term v0.32.0
